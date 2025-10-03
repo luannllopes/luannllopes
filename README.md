@@ -2,8 +2,8 @@
 ## My name is Luan Lopes!
 
 - 🔭 I’m currently a developer in training.
-- 🌱 I’m currently learning javascripit.
-- 👯 I’m looking to collaborate javascripit projects.
+- 🌱 I’m currently learning Springboot.
+- 👯 I’m looking to collaborate back-end projects.
 - 💬 Ask me about finance and investments.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I left my banking career to study development. (Laughing nervously).
@@ -19,7 +19,7 @@
 </div>
 
 <div>
-<a href="https://github.com/seu-usuário-aqui">
+<a href="https://github.com/luannllopes">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luannllopes&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=luannllopes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
