@@ -1,49 +1,65 @@
-<h1 align="left">👋 Hello! Welcome to my Github profile.</h1>
-
-###
-
-<p align="left">My name is Luan Lopes and I'm a Java Developer with 1 year and 6 months of experience, specialized in Spring Boot and microservices architecture. Proven track record contributing to solutions that enhanced performance and scalability of financial systems. Skilled in developing REST APIs, integrating systems with Apache Kafka, and managing databases such as PostgreSQL. Proficient in agile methodologies, multidisciplinary collaboration, and continuous learning and innovation.</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">🔭 I’m currently a developer in training.<br>🌱 I’m currently learning Springboot.<br>👯 I’m looking to collaborate back-end projects.<br>💬 Ask me about finance and investments.<br>😄 Pronouns: He/Him.<br>⚡ Fun fact: I left my banking career to study development. (Laughing nervously).</p>
-
-###
-
-<h2 align="left">Tools and Technologies</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+<!---- Banner Header ---->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Luan+Lopes&desc=Back-end+Developer&fontSize=90" alt="Banner luannllopes" width="100%" />
 </div>
 
-###
+<h1 align="center">Olá, eu sou luannllopes 👋</h1>
+<h3 align="center">Back-end Developer - Java</h3>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/luan-lopes-b05201117/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <a href="https://discord.com/channels/@me/1451603126090993878" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-</div>
+<div align="center">
+  
+## 🛡️ Ranking Github Stats
+![GitHub Stats](https://githubstats.com.br/api/stats?username=luannllopes&theme=github_dark&showBorder=true&language=pt&type=stats&borderType=water)
 
-###
+
+## 🎯 Sobre mim  
+Java developer with 1 year and 6 months of experience, focused on results and specialized in Spring Boot and microservices architecture. I have a proven track record in developing solutions that have optimized performance and scalability in financial systems. I have solid experience in creating robust REST APIs, integrating systems with Apache Kafka, and managing databases such as PostgreSQL. I am proficient in agile methodologies, with a strong aptitude for multidisciplinary collaboration and a constant commitment to learning and innovation.
+
+Localização: Fortaleza, CE - Brazil  
+Disponível para: Full-time  
+Idiomas: Português (Native), English (Intermediary)  
+
+
+## 🛠️ Stack & Tecnologias  
+<p align="center">
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+
+## 📊 Principais Linguagens  
+![GitHub Languages](https://githubstats.com.br/api/stats?username=luannllopes&theme=github_dark&showBorder=true&language=pt&type=languages&borderType=water)
+
+
+## 🧩 Top Repositorios Relevantes
+ ![GitHub Top Repos](https://githubstats.com.br/api/stats?username=luannllopes&theme=github_dark&showBorder=true&language=pt&type=top-repos&maxRepos=3)
+
+
+## 🧩 Projetos Relevantes  
+![GitHub Repositories](https://githubstats.com.br/api/stats?username=luannllopes&theme=github_dark&showBorder=true&language=pt&type=repos-list&borderType=fire&maxRepos=5)
+
+
+## 📫 Contato  
+Email: **luannllopes@gmail.com**  
+LinkedIn: [luan-lopes-b05201117/](https://www.linkedin.com/in/luan-lopes-b05201117/)  
+GitHub: [luannllopes](https://github.com/luannllopes)  
+
+
+## ⚙️ Ultimos commits (30 dias)  
+![GitHub Commits](https://githubstats.com.br/api/stats?username=luannllopes&theme=github_dark&showBorder=true&language=pt&type=commits&days=730)
+
+
+### Objetivos Profissionais  
+Act as a full-stack developer and, in the near future, train AIs.
+
+
+ Muito obrigado por visitar meu perfil! Vamos transformar ideias em código e criar soluções incríveis juntos. 🚀  
+ 
+ ![GitHub Repository](https://githubstats.com.br/api/stats?username=luannllopes&theme=github_dark&showBorder=true&language=pt&type=repo&repo=luannllopes)
+ 
+ </div>
